@@ -7,7 +7,7 @@ function Header() {
         <span>&#9654; </span>
         KinoGalaxy
       </div>
-      <div id="button"> Войти/Зарегистрироваться</div>
+      <div id="button"> Зарегистрироваться</div>
     </div>
   );
 }

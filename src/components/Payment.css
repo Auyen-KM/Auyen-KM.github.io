@@ -1,0 +1,29 @@
+.Payment {
+    background-color: rgb(0, 0, 0);
+    /* margin: 20px; */
+    padding: 20px;
+    /* height: fit-content; */
+    /* width: fit-content; */
+}
+.main {
+    background-color: gray;
+    /* padding: 10px; */
+}
+form{
+    margin-left: 30px;
+}
+input[type="text"] {
+    width: 70%;
+    margin-bottom: 10px;
+    height: 25px;
+    /* margin-left:30px; */
+}
+input[type="submit"] {
+    /* margin-left: 480px; */
+    /* margin-left:30px; */
+    height: 45px;
+    width: 213px;
+    background: #c71e1c;
+    border-radius: 50px;
+    color: white;
+}
