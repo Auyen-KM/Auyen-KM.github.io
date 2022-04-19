@@ -1,6 +1,7 @@
 import "./App.css";
 import Header from "./components/Header";
 import MainFilm from "./components/MainFilm";
+import Payment from "./components/Payment";
 
 function App() {
   return (
