@@ -1,4 +1,5 @@
 import "./App.css";
+import Films from "./components/Films";
 import Header from "./components/Header";
 import MainFilm from "./components/MainFilm";
 import Payment from "./components/Payment";
@@ -8,10 +9,8 @@ function App() {
     <div className="App">
       <Header />
       <MainFilm />
-
-      <div id="notification">
-        Измените соотношения экрана или зайдите с мобильного устройства
-      </div>
+      <Films />
+      <Payment />
     </div>
   );
 }
