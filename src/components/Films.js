@@ -114,19 +114,24 @@ function Films() {
             alt="https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/eed1de3a-5400-43b3-839e-22490389bf54/300x450"
           />
           <Film
-            src="https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/3340f367-5a35-4ad5-b7da-fce6bf1d5bc2/300x450"
-            alt="https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/3340f367-5a35-4ad5-b7da-fce6bf1d5bc2/300x450"
+            src="https://cdn.ananasposter.ru/image/cache/catalog/poster/film/78/27858-1000x830.jpg"
+            alt="https://cdn.ananasposter.ru/image/cache/catalog/poster/film/78/27858-1000x830.jpg"
           />
         </div>
       </div>
+
+      {/* <iframe
+        title="Матрица 1999"
+        src="https://vk.com/video_ext.php?oid=-211849164&id=456239225&hash=ff56979194540a11"
+        width="480"
+        height="300"
+        frameBorder="0"
+        allowFullScreen="1"
+        allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
+      ></iframe> */}
     </div>
   );
 }
-// function Section(props) {
-//   return (
-
-//   );
-// }
 
 function Film(props) {
   return (

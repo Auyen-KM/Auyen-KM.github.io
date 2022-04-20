@@ -1,0 +1,7 @@
+.Player{
+    width: 100%;
+    display: none;
+}
+.Player:target{
+    display: block;
+}
