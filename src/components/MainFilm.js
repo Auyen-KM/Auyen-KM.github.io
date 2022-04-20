@@ -8,7 +8,7 @@ function MainFilm() {
         src="http://kinotom.com/wp-content/uploads/2013/09/stalingrad_4.jpg"
         alt="http://kinotom.com/wp-content/uploads/2013/09/stalingrad_4.jpg"
       />
-      <a href="#player">
+      <a href="/player">
         <button className={m.button}>&#9654;Смотреть</button>
       </a>
       {/* className={m.Player}  onClick="Player()" */}
@@ -23,7 +23,6 @@ function MainFilm() {
           allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
         ></iframe>
       </div>
-      {/* <h2 className={m.h2}>Иллюзия обмана</h2> */}
     </div>
   );
 }

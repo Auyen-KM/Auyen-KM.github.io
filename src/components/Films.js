@@ -119,16 +119,6 @@ function Films() {
           />
         </div>
       </div>
-
-      {/* <iframe
-        title="Матрица 1999"
-        src="https://vk.com/video_ext.php?oid=-211849164&id=456239225&hash=ff56979194540a11"
-        width="480"
-        height="300"
-        frameBorder="0"
-        allowFullScreen="1"
-        allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
-      ></iframe> */}
     </div>
   );
 }

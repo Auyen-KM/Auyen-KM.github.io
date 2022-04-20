@@ -1,7 +1,7 @@
 .Player{
     width: 100%;
-    display: none;
+    /* display: none; */
 }
-.Player:target{
+/* .Player:target{
     display: block;
-}
+} */

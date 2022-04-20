@@ -1,21 +1,19 @@
-.Header{
+.Header {
     max-width: 480px;
     height: 50px;
     margin-top: 0;
-    /* background-color: rgba(74, 74, 74, 0.544); */
-    /* position: fixed; */
     background-image: url(https://i.pinimg.com/originals/ec/38/50/ec3850eda3c3ffd45bd1fcaff8bc57bd.jpg);
 }
-#logo{
+
+#logo {
     display: inline-block;
     margin-top: 10px;
     margin-left: 10px;
     font-size: larger;
-    /* width: 200px; */
-    color:aliceblue;
-    /* padding-bottom: 50px; */
+    color: aliceblue;
 }
-#button{
+
+#button {
     float: right;
     margin-right: 10px;
     margin-top: 10px;
@@ -26,8 +24,9 @@
     width: 35%;
     text-align: center;
 }
-span{
-color: rgb(255, 0, 0);
-background-color: black;
-padding-left: 7px;
+
+span {
+    color: rgb(255, 0, 0);
+    background-color: black;
+    padding-left: 7px;
 }

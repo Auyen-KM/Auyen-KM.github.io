@@ -1,33 +1,22 @@
 .Films {
-    /* height: 1000px; */
     background-color: rgb(0, 0, 0);
 }
-
 
 .film_section {
     position: relative;
     margin: 0;
-    /* width: 100%; */
     height: 240px;
     background-color: rgb(0, 0, 0);
 
 }
 
-/* .film_section:first-child {
-    margin-top: 30px;
-} */
-
 .scrollbar {
     background-color: rgb(45, 42, 42);
-    /* height: 220px; */
-    /* margin: 0; */
     display: flex;
     padding: 20px;
     overflow-x: scroll;
-    /* -ms-overflow-style:none; */
     scrollbar-width: none;
     touch-action: pan-x;
-    /* border:1px solid #fff */
 }
 
 .scrollbar::-webkit-scrollbar {
@@ -38,10 +27,8 @@
     position: relative;
     display: inline-flex;
     margin: 0px 10px;
-    /* margin-top: 50px; */
     width: 120px;
     height: 180px;
-    /* background-color: blue; */
     flex-shrink: 0;
 }
 
@@ -59,8 +46,6 @@
 .h2 {
     position: relative;
     margin: 5px 0px 0px 30px;
-    /* background-color: aquamarine; */
-    /* margin: 0; */
     color: aliceblue
 }
 
@@ -71,14 +56,9 @@ video {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    /* transition: 0.2s linear 0s; */
     min-height: auto;
     max-height: none;
     min-width: auto;
     max-width: none;
     border: 1px solid #FFF
 }
-/* iframe{
-    border: 1px solid #FFF
-
-} */
